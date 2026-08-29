@@ -3,3 +3,4 @@
 ## Guias
 
 - [Guia prático de Inteligência Artificial](./IA/README.md)
+- [Enciclopédia prática de Sistemas Operacionais](./OS/README.md)
